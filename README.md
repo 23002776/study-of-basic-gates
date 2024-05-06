@@ -93,8 +93,8 @@ endmodule
 
 ![ex 1(1) gate](https://github.com/23002776/study-of-basic-gates/assets/145742657/c6c22124-0f27-48f8-a71a-d84e21e4510e)
 
-**RTL**
-
 **Result:**
-The output found successfully.
+
+
+The  basic digital IC’s and verification of truth tables for different logic gates output found successfully.
 
